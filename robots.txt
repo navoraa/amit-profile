@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://navoraa.github.io/amit-profile/sitemap.xml
